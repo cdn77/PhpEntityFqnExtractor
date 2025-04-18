@@ -1,5 +1,8 @@
 # Entity FQN Extractor
 
+> [!WARNING]
+> This library is abandoned and no longer maintained. Please use [thephpleague/construct-finder](https://github.com/thephpleague/construct-finder) instead.
+
 [![GitHub Actions][GA Image]][GA Link]
 [![Code Coverage][Coverage Image]][CodeCov Link]
 [![Downloads][Downloads Image]][Packagist Link]
